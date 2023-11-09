@@ -1,0 +1,108 @@
+import csv
+import numpy as np
+import json
+import msgpack
+import pickle
+from collections import Counter
+
+# поля, с которыми будем работать
+working_fields = ['AREA', 'AREA NAME', 'Vict Descent', 'Vict Age', 'Vict Sex', 'TIME OCC', 'Crm Cd']
+# список, куда положим данные
+data = []
+
+
+# сначала лучше просто считать данные, сохранение их отложим на конец
+
+with open('Crime_Data_from_2020_to_Present.csv', 'r') as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        filtered_row = {field: row[field] for field in working_fields}
+        data.append(filtered_row)
+
+
+# определим функцию, которая будет обработаывать отдельную числовую колонку
+# чтобы не мучаться с пропусками, отфильтруйте значения, отбросив те строки
+# где нет значения, таким образом создав массив со значениями, которые "хорошие"
+# с этим массивом уже можно будет работать спокойно, получая нужные характеристики
+# только нужно перед добавлением в массив значение преобразовать в числовое int()
+def handle_num_field(data, field_name):
+    arr = []
+    for item in data:
+        raw_value = item[field_name]
+        if raw_value.isdigit():
+            arr.append(int(raw_value))
+
+    min_values = np.nanmin(arr, axis=0)
+    mean_values = np.nanmean(arr, axis=0)
+    sum_values = np.nansum(arr, axis=0)
+    std_values = np.nanstd(arr, axis=0)
+
+    result = dict()
+    # добавим имя поля
+    result['field_name'] = field_name
+    result['max'] = np.nanmax(arr, axis=0)
+    # todo simplify it
+    result['min'] = min_values
+    result['mean'] = mean_values
+    result['sum'] = sum_values
+    result['std'] = std_values
+
+    return result
+
+num_fields_list = ['Crm Cd', 'TIME OCC', 'Vict Age', 'AREA']
+stat_result = []
+
+# для каждого поля из num_fields_list будет вызвана handle_num_field
+# в результате в stat_result будет лежать четыре объекта
+# со статистикой по каждому полю
+for num_field in num_fields_list:
+    stat_result.append(handle_num_field(data,num_field))
+
+print(stat_result)
+
+# todo
+# реализовать функцию handle_text_field
+# она должна посчитать частоту встречаемости каждого уникального значения
+# вернуть также dict, где будет название поля, а также пары: значение - частота
+
+def handle_text_field(data, field_name):
+    arr = []
+    for item in data:
+        arr.append(item[field_name])
+
+    freq_data = dict()
+    for val in arr:
+        if val in freq_data:
+            freq_data[val] += 1
+        else:
+            freq_data[val] = 1
+
+    result = dict()
+    result['field_name'] = field_name
+    result['result1'] = freq_data
+
+    return result
+
+text_fields_list = ['AREA NAME', 'Vict Sex', 'Vict Descent']
+text_result = []
+
+for field in text_fields_list:
+    text_result.append(handle_text_field(data, field))
+
+print(text_result)
+
+with open ('result.json', 'w') as f:
+    json.dump(text_result, f)
+
+with open ('text.result.csv', 'w', newline='') as f:
+    writer = csv.DictWriter(f, fieldnames=text_result[0].keys())
+    writer.writeheader()
+    writer.writerows(text_result)
+
+with open('text_result.msgpack', 'wb') as f:
+    packed_text = msgpack.packb(text_result)
+    f.write(packed_text)
+
+with open('text_result.pkl', 'wb') as f:
+    pickle.dump(text_result, f)
+    
