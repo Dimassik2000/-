@@ -1,0 +1,32 @@
+[
+  {
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 85.5,
+    "Engine_size": 5.0,
+    "Horsepower": 302.0
+  },
+  {
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 85.5,
+    "Engine_size": 5.0,
+    "Horsepower": 302.0
+  },
+  {
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 85.5,
+    "Engine_size": 5.0,
+    "Horsepower": 302.0
+  },
+  {
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 85.5,
+    "Engine_size": 5.0,
+    "Horsepower": 302.0
+  },
+  {
+    "Vehicle_type": "Passenger",
+    "Price_in_thousands": 85.5,
+    "Engine_size": 5.0,
+    "Horsepower": 302.0
+  }
+]

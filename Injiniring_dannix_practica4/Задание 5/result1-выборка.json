@@ -1,0 +1,584 @@
+[
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Corolla",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 10.025
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Camry",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Avalon",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 18.14
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Celica",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 15.445
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Tacoma",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 9.575
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Sienna",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": null
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "RAV4",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.325
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "4Runner",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 19.425
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Land Cruiser",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 34.08
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Corolla",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 10.025
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Camry",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Avalon",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 18.14
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Celica",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 15.445
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Tacoma",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 9.575
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Sienna",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": null
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "RAV4",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.325
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "4Runner",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 19.425
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Land Cruiser",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 34.08
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Corolla",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 10.025
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Camry",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Avalon",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 18.14
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Celica",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 15.445
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Tacoma",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 9.575
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Sienna",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": null
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "RAV4",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.325
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "4Runner",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 19.425
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Land Cruiser",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 34.08
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Corolla",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 10.025
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Camry",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Avalon",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 18.14
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Celica",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 15.445
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Tacoma",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 9.575
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Sienna",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": null
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "RAV4",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.325
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "4Runner",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 19.425
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Land Cruiser",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 34.08
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Corolla",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 10.025
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Camry",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Avalon",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 18.14
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Celica",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 15.445
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Tacoma",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 9.575
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Sienna",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": null
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "RAV4",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.325
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "4Runner",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 19.425
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Land Cruiser",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 34.08
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Corolla",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 10.025
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Camry",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.245
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Avalon",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 18.14
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Celica",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 15.445
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Tacoma",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 9.575
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Sienna",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": null
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "RAV4",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 13.325
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "4Runner",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 19.425
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Land Cruiser",
+    "Sales_in_thousands": 300.0,
+    "__year_resale_value": 34.08
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Pickup",
+    "Sales_in_thousands": 227.061,
+    "__year_resale_value": 15.06
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Taurus",
+    "Sales_in_thousands": 245.815,
+    "__year_resale_value": 10.055
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Explorer",
+    "Sales_in_thousands": 276.747,
+    "__year_resale_value": 16.64
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Ranger",
+    "Sales_in_thousands": 220.65,
+    "__year_resale_value": 7.85
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "F-Series",
+    "Sales_in_thousands": 540.561,
+    "__year_resale_value": 15.075
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Accord",
+    "Sales_in_thousands": 230.902,
+    "__year_resale_value": 13.21
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Camry",
+    "Sales_in_thousands": 247.994,
+    "__year_resale_value": 13.245
+  }
+]

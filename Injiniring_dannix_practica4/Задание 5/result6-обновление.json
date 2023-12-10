@@ -1,0 +1,4580 @@
+[
+  {
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  },
+  {
+    "Wheelbase": 108.1,
+    "Width": 70.3,
+    "Length": 192.9,
+    "Curb_weight": 3.517
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.6,
+    "Length": 192.0,
+    "Curb_weight": 3.47
+  },
+  {
+    "Wheelbase": 114.6,
+    "Width": 71.4,
+    "Length": 196.6,
+    "Curb_weight": 3.85
+  },
+  {
+    "Wheelbase": 108.7,
+    "Width": 76.1,
+    "Length": 192.0,
+    "Curb_weight": 3.561
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.0,
+    "Length": 198.2,
+    "Curb_weight": 3.902
+  },
+  {
+    "Wheelbase": 111.4,
+    "Width": 70.9,
+    "Length": 188.0,
+    "Curb_weight": 3.472
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 194.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 72.7,
+    "Length": 196.2,
+    "Curb_weight": 3.543
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.7,
+    "Length": 206.8,
+    "Curb_weight": 3.778
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 73.5,
+    "Length": 200.0,
+    "Curb_weight": 3.591
+  },
+  {
+    "Wheelbase": 115.3,
+    "Width": 74.5,
+    "Length": 207.2,
+    "Curb_weight": 3.978
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 75.0,
+    "Length": 201.0,
+    "Curb_weight": null
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 75.5,
+    "Length": 200.6,
+    "Curb_weight": 3.843
+  },
+  {
+    "Wheelbase": 107.4,
+    "Width": 70.3,
+    "Length": 194.8,
+    "Curb_weight": 3.77
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 77.0,
+    "Length": 201.2,
+    "Curb_weight": 5.572
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 67.9,
+    "Length": 180.9,
+    "Curb_weight": 2.676
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 190.4,
+    "Curb_weight": 3.051
+  },
+  {
+    "Wheelbase": 107.5,
+    "Width": 72.5,
+    "Length": 200.9,
+    "Curb_weight": 3.33
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 197.9,
+    "Curb_weight": 3.34
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.1,
+    "Length": 193.2,
+    "Curb_weight": 3.5
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 73.0,
+    "Length": 200.0,
+    "Curb_weight": 3.389
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.7,
+    "Length": 190.9,
+    "Curb_weight": 2.967
+  },
+  {
+    "Wheelbase": 106.0,
+    "Width": 69.2,
+    "Length": 193.0,
+    "Curb_weight": 3.332
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 209.1,
+    "Curb_weight": 3.452
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 2.911
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 207.7,
+    "Curb_weight": 3.564
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.4,
+    "Length": 197.8,
+    "Curb_weight": 3.567
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 69.1,
+    "Length": 190.2,
+    "Curb_weight": 2.879
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.0,
+    "Curb_weight": 3.058
+  },
+  {
+    "Wheelbase": 113.0,
+    "Width": 74.7,
+    "Length": 203.7,
+    "Curb_weight": 3.489
+  },
+  {
+    "Wheelbase": 138.7,
+    "Width": 79.3,
+    "Length": 224.2,
+    "Curb_weight": 4.47
+  },
+  {
+    "Wheelbase": 109.6,
+    "Width": 78.8,
+    "Length": 192.6,
+    "Curb_weight": 4.245
+  },
+  {
+    "Wheelbase": 127.2,
+    "Width": 78.8,
+    "Length": 208.5,
+    "Curb_weight": 4.298
+  },
+  {
+    "Wheelbase": 131.0,
+    "Width": 71.5,
+    "Length": 215.0,
+    "Curb_weight": 3.557
+  },
+  {
+    "Wheelbase": 115.7,
+    "Width": 71.7,
+    "Length": 193.5,
+    "Curb_weight": 4.394
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.533
+  },
+  {
+    "Wheelbase": 101.3,
+    "Width": 73.1,
+    "Length": 183.2,
+    "Curb_weight": 3.203
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.6,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 197.6,
+    "Curb_weight": 3.368
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.908
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.7,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 120.7,
+    "Width": 76.6,
+    "Length": 200.9,
+    "Curb_weight": 3.761
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 78.7,
+    "Length": 204.6,
+    "Curb_weight": 4.808
+  },
+  {
+    "Wheelbase": 117.5,
+    "Width": 69.4,
+    "Length": 200.7,
+    "Curb_weight": 3.086
+  },
+  {
+    "Wheelbase": 138.5,
+    "Width": 79.1,
+    "Length": 224.5,
+    "Curb_weight": 4.241
+  },
+  {
+    "Wheelbase": 106.9,
+    "Width": 70.3,
+    "Length": 188.8,
+    "Curb_weight": 2.932
+  },
+  {
+    "Wheelbase": 118.1,
+    "Width": 75.6,
+    "Length": 201.2,
+    "Curb_weight": 4.288
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.6,
+    "Length": 185.4,
+    "Curb_weight": 3.072
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.2,
+    "Length": 193.7,
+    "Curb_weight": 3.342
+  },
+  {
+    "Wheelbase": 114.5,
+    "Width": 71.6,
+    "Length": 191.3,
+    "Curb_weight": 3.65
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 72.3,
+    "Length": 181.5,
+    "Curb_weight": 3.88
+  },
+  {
+    "Wheelbase": 105.1,
+    "Width": 70.5,
+    "Length": 190.2,
+    "Curb_weight": 3.373
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.638
+  },
+  {
+    "Wheelbase": 110.2,
+    "Width": 70.9,
+    "Length": 189.2,
+    "Curb_weight": 3.693
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.0,
+    "Length": 196.7,
+    "Curb_weight": 3.89
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.401
+  },
+  {
+    "Wheelbase": 103.0,
+    "Width": 71.5,
+    "Length": 180.1,
+    "Curb_weight": 3.9
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 208.5,
+    "Curb_weight": 3.868
+  },
+  {
+    "Wheelbase": 117.7,
+    "Width": 78.2,
+    "Length": 215.3,
+    "Curb_weight": 4.121
+  },
+  {
+    "Wheelbase": 119.0,
+    "Width": 79.9,
+    "Length": 204.8,
+    "Curb_weight": 5.393
+  },
+  {
+    "Wheelbase": 103.7,
+    "Width": 68.5,
+    "Length": 187.8,
+    "Curb_weight": 2.945
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 70.3,
+    "Length": 194.1,
+    "Curb_weight": 3.443
+  },
+  {
+    "Wheelbase": 97.2,
+    "Width": 72.4,
+    "Length": 180.3,
+    "Curb_weight": 3.131
+  },
+  {
+    "Wheelbase": 107.3,
+    "Width": 69.9,
+    "Length": 186.6,
+    "Curb_weight": 4.52
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.1,
+    "Length": 184.8,
+    "Curb_weight": 2.769
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 69.6,
+    "Length": 185.0,
+    "Curb_weight": 2.892
+  },
+  {
+    "Wheelbase": 108.5,
+    "Width": 73.0,
+    "Length": 199.7,
+    "Curb_weight": 3.379
+  },
+  {
+    "Wheelbase": 114.7,
+    "Width": 78.2,
+    "Length": 212.0,
+    "Curb_weight": 3.958
+  },
+  {
+    "Wheelbase": 111.6,
+    "Width": 70.2,
+    "Length": 190.1,
+    "Curb_weight": 3.876
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.7,
+    "Curb_weight": 3.944
+  },
+  {
+    "Wheelbase": 111.5,
+    "Width": 70.8,
+    "Length": 189.4,
+    "Curb_weight": 3.823
+  },
+  {
+    "Wheelbase": 121.5,
+    "Width": 73.1,
+    "Length": 203.1,
+    "Curb_weight": 4.133
+  },
+  {
+    "Wheelbase": 105.9,
+    "Width": 67.8,
+    "Length": 180.3,
+    "Curb_weight": 3.213
+  },
+  {
+    "Wheelbase": 113.6,
+    "Width": 73.1,
+    "Length": 196.6,
+    "Curb_weight": 4.115
+  },
+  {
+    "Wheelbase": 111.0,
+    "Width": 72.2,
+    "Length": 180.6,
+    "Curb_weight": 4.387
+  },
+  {
+    "Wheelbase": 103.1,
+    "Width": 69.1,
+    "Length": 183.5,
+    "Curb_weight": 3.012
+  },
+  {
+    "Wheelbase": 108.3,
+    "Width": 70.3,
+    "Length": 190.5,
+    "Curb_weight": 3.294
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 74.9,
+    "Length": 194.8,
+    "Curb_weight": 3.991
+  },
+  {
+    "Wheelbase": 106.3,
+    "Width": 71.7,
+    "Length": 182.6,
+    "Curb_weight": 3.947
+  },
+  {
+    "Wheelbase": 116.1,
+    "Width": 66.5,
+    "Length": 196.1,
+    "Curb_weight": 3.217
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 69.4,
+    "Length": 192.0,
+    "Curb_weight": 3.102
+  },
+  {
+    "Wheelbase": 109.0,
+    "Width": 73.6,
+    "Length": 195.9,
+    "Curb_weight": 3.455
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.1,
+    "Length": 186.7,
+    "Curb_weight": 2.958
+  },
+  {
+    "Wheelbase": 113.8,
+    "Width": 74.4,
+    "Length": 205.4,
+    "Curb_weight": 3.967
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 67.8,
+    "Length": 181.2,
+    "Curb_weight": 4.068
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.2,
+    "Length": 201.4,
+    "Curb_weight": 3.948
+  },
+  {
+    "Wheelbase": 108.0,
+    "Width": 71.0,
+    "Length": 186.3,
+    "Curb_weight": 2.942
+  },
+  {
+    "Wheelbase": 113.3,
+    "Width": 76.8,
+    "Length": 186.3,
+    "Curb_weight": 3.528
+  },
+  {
+    "Wheelbase": 104.1,
+    "Width": 68.4,
+    "Length": 181.9,
+    "Curb_weight": 2.906
+  },
+  {
+    "Wheelbase": 107.0,
+    "Width": 70.4,
+    "Length": 186.3,
+    "Curb_weight": 3.091
+  },
+  {
+    "Wheelbase": 101.1,
+    "Width": 74.5,
+    "Length": 193.4,
+    "Curb_weight": 3.492
+  },
+  {
+    "Wheelbase": 110.5,
+    "Width": 72.7,
+    "Length": 196.5,
+    "Curb_weight": 3.396
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 72.6,
+    "Length": 202.5,
+    "Curb_weight": 3.59
+  },
+  {
+    "Wheelbase": 120.0,
+    "Width": 72.7,
+    "Length": 201.3,
+    "Curb_weight": 3.942
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 70.6,
+    "Length": 189.2,
+    "Curb_weight": 3.28
+  },
+  {
+    "Wheelbase": 102.6,
+    "Width": 67.4,
+    "Length": 182.2,
+    "Curb_weight": 2.99
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 3.075
+  },
+  {
+    "Wheelbase": 106.5,
+    "Width": 69.0,
+    "Length": 190.4,
+    "Curb_weight": 2.91
+  },
+  {
+    "Wheelbase": 103.5,
+    "Width": 67.5,
+    "Length": 185.8,
+    "Curb_weight": 3.415
+  },
+  {
+    "Wheelbase": 105.2,
+    "Width": 70.1,
+    "Length": 188.5,
+    "Curb_weight": 2.998
+  },
+  {
+    "Wheelbase": 107.1,
+    "Width": 71.7,
+    "Length": 191.9,
+    "Curb_weight": 3.417
+  },
+  {
+    "Wheelbase": 114.2,
+    "Width": 73.4,
+    "Length": 193.5,
+    "Curb_weight": 3.759
+  },
+  {
+    "Wheelbase": 105.3,
+    "Width": 66.5,
+    "Length": 183.3,
+    "Curb_weight": 3.44
+  },
+  {
+    "Wheelbase": 112.2,
+    "Width": 76.4,
+    "Length": 192.5,
+    "Curb_weight": 5.115
+  },
+  {
+    "Wheelbase": 106.4,
+    "Width": 68.5,
+    "Length": 184.1,
+    "Curb_weight": 3.043
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 185.9,
+    "Curb_weight": 3.208
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 69.3,
+    "Length": 186.2,
+    "Curb_weight": 3.259
+  },
+  {
+    "Wheelbase": 104.9,
+    "Width": 71.5,
+    "Length": 185.7,
+    "Curb_weight": 3.601
+  },
+  {
+    "Wheelbase": 109.9,
+    "Width": 72.1,
+    "Length": 189.8,
+    "Curb_weight": 3.6
+  }
+]
