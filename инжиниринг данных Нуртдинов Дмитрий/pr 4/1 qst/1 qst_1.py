@@ -105,7 +105,7 @@ def filter_by_tours_count(db, min_tours, limit=30):
     """, (min_tours, limit))
 
     rows = cursor.fetchall()
-    results = [{'tours_count': row[0]} for row in rows]
+    results = [dict(row) for row in rows]
 
     cursor.close()
 
