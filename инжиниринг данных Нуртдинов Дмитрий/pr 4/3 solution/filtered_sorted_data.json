@@ -1,0 +1,352 @@
+[
+    {
+        "id": 7,
+        "artist": "Daft Punk",
+        "song": "One More Time",
+        "duration_ms": 320357,
+        "year": 2001,
+        "tempo": 122.746,
+        "genre": "hip hop, Dance/Electronic",
+        "popularity": 76
+    },
+    {
+        "id": 37,
+        "artist": "The Calling",
+        "song": "Wherever You Will Go",
+        "duration_ms": 208600,
+        "year": 2001,
+        "tempo": 112.027,
+        "genre": "pop",
+        "popularity": 72
+    },
+    {
+        "id": 57,
+        "artist": "Enrique Iglesias",
+        "song": "Escape",
+        "duration_ms": 208626,
+        "year": 2001,
+        "tempo": 125.972,
+        "genre": "pop, latin",
+        "popularity": 56
+    },
+    {
+        "id": 77,
+        "artist": "Faith Hill",
+        "song": "There You'll Be",
+        "duration_ms": 222120,
+        "year": 2001,
+        "tempo": 128.98,
+        "genre": "pop, country",
+        "popularity": 60
+    },
+    {
+        "id": 144,
+        "artist": "Faith Evans",
+        "song": "I Love You",
+        "duration_ms": 267160,
+        "year": 2001,
+        "tempo": 168.004,
+        "genre": "hip hop, pop, R&B",
+        "popularity": 53
+    },
+    {
+        "id": 146,
+        "artist": "Janet Jackson",
+        "song": "All For You",
+        "duration_ms": 329933,
+        "year": 2001,
+        "tempo": 113.525,
+        "genre": "pop, R&B",
+        "popularity": 65
+    },
+    {
+        "id": 167,
+        "artist": "Train",
+        "song": "Drops of Jupiter (Tell Me)",
+        "duration_ms": 259933,
+        "year": 2001,
+        "tempo": 79.064,
+        "genre": "pop",
+        "popularity": 77
+    },
+    {
+        "id": 196,
+        "artist": "LeAnn Rimes",
+        "song": "Can't Fight The Moonlight",
+        "duration_ms": 215506,
+        "year": 2001,
+        "tempo": 97.865,
+        "genre": "pop, country",
+        "popularity": 65
+    },
+    {
+        "id": 264,
+        "artist": "Destiny's Child",
+        "song": "Independent Women, Pt. 1",
+        "duration_ms": 221133,
+        "year": 2001,
+        "tempo": 97.954,
+        "genre": "pop, R&B",
+        "popularity": 65
+    },
+    {
+        "id": 272,
+        "artist": "Puddle Of Mudd",
+        "song": "Blurry",
+        "duration_ms": 303920,
+        "year": 2001,
+        "tempo": 157.469,
+        "genre": "rock, metal",
+        "popularity": 64
+    },
+    {
+        "id": 279,
+        "artist": "JAY-Z",
+        "song": "Izzo (H.O.V.A.)",
+        "duration_ms": 240626,
+        "year": 2001,
+        "tempo": 84.411,
+        "genre": "hip hop",
+        "popularity": 63
+    },
+    {
+        "id": 296,
+        "artist": "Jennifer Lopez",
+        "song": "Ain't It Funny",
+        "duration_ms": 246160,
+        "year": 2001,
+        "tempo": 99.825,
+        "genre": "hip hop, pop, R&B",
+        "popularity": 0
+    },
+    {
+        "id": 315,
+        "artist": "Atomic Kitten",
+        "song": "Eternal Flame - Single Version",
+        "duration_ms": 195506,
+        "year": 2001,
+        "tempo": 83.293,
+        "genre": "pop",
+        "popularity": 58
+    },
+    {
+        "id": 317,
+        "artist": "Destiny's Child",
+        "song": "Survivor",
+        "duration_ms": 254026,
+        "year": 2001,
+        "tempo": 161.109,
+        "genre": "pop, R&B",
+        "popularity": 70
+    },
+    {
+        "id": 332,
+        "artist": "No Doubt",
+        "song": "Underneath It All",
+        "duration_ms": 302720,
+        "year": 2001,
+        "tempo": 138.202,
+        "genre": "rock, pop",
+        "popularity": 27
+    },
+    {
+        "id": 368,
+        "artist": "Blu Cantrell",
+        "song": "Hit 'Em Up Style (Oops!)",
+        "duration_ms": 250706,
+        "year": 2001,
+        "tempo": 89.976,
+        "genre": "pop, R&B",
+        "popularity": 71
+    },
+    {
+        "id": 376,
+        "artist": "Christina Milian",
+        "song": "AM To PM",
+        "duration_ms": 231213,
+        "year": 2001,
+        "tempo": 105.005,
+        "genre": "hip hop, pop, R&B",
+        "popularity": 60
+    },
+    {
+        "id": 377,
+        "artist": "Default",
+        "song": "Wasting My Time",
+        "duration_ms": 268693,
+        "year": 2001,
+        "tempo": 147.973,
+        "genre": "rock, pop, metal",
+        "popularity": 40
+    },
+    {
+        "id": 384,
+        "artist": "So Solid Crew",
+        "song": "21 Seconds",
+        "duration_ms": 302826,
+        "year": 2001,
+        "tempo": 137.03,
+        "genre": "Dance/Electronic",
+        "popularity": 51
+    },
+    {
+        "id": 394,
+        "artist": "Mariah Carey",
+        "song": "Loverboy",
+        "duration_ms": 229173,
+        "year": 2001,
+        "tempo": 103.141,
+        "genre": "pop, R&B",
+        "popularity": 42
+    },
+    {
+        "id": 431,
+        "artist": "Atomic Kitten",
+        "song": "Whole Again",
+        "duration_ms": 185013,
+        "year": 2001,
+        "tempo": 94.019,
+        "genre": "pop",
+        "popularity": 66
+    },
+    {
+        "id": 466,
+        "artist": "Trick Daddy",
+        "song": "I'm a Thug",
+        "duration_ms": 254400,
+        "year": 2001,
+        "tempo": 139.976,
+        "genre": "hip hop, pop",
+        "popularity": 59
+    },
+    {
+        "id": 474,
+        "artist": "Darude",
+        "song": "Sandstorm",
+        "duration_ms": 225493,
+        "year": 2001,
+        "tempo": 136.065,
+        "genre": "pop, Dance/Electronic",
+        "popularity": 69
+    },
+    {
+        "id": 477,
+        "artist": "Ja Rule",
+        "song": "Always On Time",
+        "duration_ms": 245133,
+        "year": 2001,
+        "tempo": 96.673,
+        "genre": "hip hop, pop, R&B",
+        "popularity": 73
+    },
+    {
+        "id": 511,
+        "artist": "Lasgo",
+        "song": "Something",
+        "duration_ms": 220973,
+        "year": 2001,
+        "tempo": 140.01,
+        "genre": "pop",
+        "popularity": 65
+    },
+    {
+        "id": 535,
+        "artist": "Jimmy Eat World",
+        "song": "The Middle",
+        "duration_ms": 165853,
+        "year": 2001,
+        "tempo": 162.152,
+        "genre": "rock, pop",
+        "popularity": 78
+    },
+    {
+        "id": 564,
+        "artist": "Alien Ant Farm",
+        "song": "Smooth Criminal",
+        "duration_ms": 209266,
+        "year": 2001,
+        "tempo": 126.928,
+        "genre": "rock, metal",
+        "popularity": 75
+    },
+    {
+        "id": 567,
+        "artist": "Missy Elliott",
+        "song": "Get Ur Freak On",
+        "duration_ms": 211120,
+        "year": 2001,
+        "tempo": 177.87,
+        "genre": "hip hop, pop, R&B",
+        "popularity": 68
+    },
+    {
+        "id": 578,
+        "artist": "Jagged Edge",
+        "song": "Where the Party At (feat. Nelly)",
+        "duration_ms": 232573,
+        "year": 2001,
+        "tempo": 129.491,
+        "genre": "hip hop, pop, R&B",
+        "popularity": 67
+    },
+    {
+        "id": 594,
+        "artist": "Five",
+        "song": "Let's Dance - Radio Edit",
+        "duration_ms": 218626,
+        "year": 2001,
+        "tempo": 118.007,
+        "genre": "pop",
+        "popularity": 47
+    },
+    {
+        "id": 627,
+        "artist": "Gabrielle",
+        "song": "Rise",
+        "duration_ms": 219093,
+        "year": 2001,
+        "tempo": 144.673,
+        "genre": "pop, R&B",
+        "popularity": 60
+    },
+    {
+        "id": 629,
+        "artist": "Fat Joe",
+        "song": "What's Luv? (feat. Ja-Rule & Ashanti)",
+        "duration_ms": 267093,
+        "year": 2001,
+        "tempo": 93.955,
+        "genre": "hip hop, pop",
+        "popularity": 73
+    },
+    {
+        "id": 656,
+        "artist": "2Pac",
+        "song": "Until The End Of Time",
+        "duration_ms": 266506,
+        "year": 2001,
+        "tempo": 96.976,
+        "genre": "hip hop",
+        "popularity": 57
+    },
+    {
+        "id": 667,
+        "artist": "Afroman",
+        "song": "Because I Got High",
+        "duration_ms": 197760,
+        "year": 2001,
+        "tempo": 166.01,
+        "genre": "hip hop",
+        "popularity": 68
+    },
+    {
+        "id": 686,
+        "artist": "P!nk",
+        "song": "Don't Let Me Get Me - Radio Edit",
+        "duration_ms": 210693,
+        "year": 2001,
+        "tempo": 98.525,
+        "genre": "pop",
+        "popularity": 60
+    }
+]
