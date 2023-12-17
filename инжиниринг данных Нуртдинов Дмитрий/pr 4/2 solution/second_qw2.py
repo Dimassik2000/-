@@ -1,6 +1,6 @@
+
 import json
 import sqlite3
-
 
 def load_data(file_name):
     with open(file_name, encoding='utf-8') as file:
@@ -24,7 +24,7 @@ def insert_comment_data(db, data):
     """, data)
     db.commit()
 
-def first_query(db, name, file):
+def first_query(db, name):
     cursor = db.cursor()
     res = cursor.execute("""
         SELECT * 
@@ -35,11 +35,10 @@ def first_query(db, name, file):
     for row in res.fetchall():
         item = dict(row)
         items.append(item)
-        file.write(f"{item} \n")  # Запись в файл
     cursor.close()
     return items
 
-def second_query(db, name, file):
+def second_query(db, name):
     cursor = db.cursor()
     res = cursor.execute("""
         SELECT 
@@ -49,11 +48,10 @@ def second_query(db, name, file):
         WHERE game_id = (SELECT id FROM games WHERE name = ?)
     """, [name])
     result = dict(res.fetchone())
-    file.write(f"{result} \n")  # Запись в файл
     cursor.close()
-    return []
+    return result
 
-def third_query(db, file):
+def third_query(db):
     cursor = db.cursor()
     res = cursor.execute("""
         SELECT 
@@ -63,25 +61,26 @@ def third_query(db, file):
         ORDER BY count DESC
         LIMIT 10
     """)
-    result = dict(res.fetchone())
-    file.write(f"{result} \n")  # Запись в файл
+    results = []
+    for row in res.fetchall():
+        result = dict(row)
+        results.append(result)
     cursor.close()
-    return []
-
-
+    return results
 
 db = connect_to_db('help.db')
 
+result_first = first_query(db, 'Пойковский 1970')
+result_second = second_query(db, 'Пойковский 1970')
+result_third = third_query(db)
 
-file_first = open('first_query_results.txt', 'w', encoding='utf-8')
-file_second = open('second_query_results.txt', 'w', encoding='utf-8')
-file_third = open('third_query_results.txt', 'w', encoding='utf-8')
+file_first = open('first_query_results.json', 'w', encoding='utf-8')
+file_second = open('second_query_results.json', 'w', encoding='utf-8')
+file_third = open('third_query_results.json', 'w', encoding='utf-8')
 
-
-result_first = first_query(db, 'Пойковский 1970', file_first)
-result_second = second_query(db, 'Пойковский 1970', file_second)
-result_third = third_query(db, file_third)
-
+json.dump(result_first, file_first, ensure_ascii=False, indent=4)
+json.dump(result_second, file_second, ensure_ascii=False, indent=4)
+json.dump(result_third, file_third, ensure_ascii=False, indent=4)
 
 file_first.close()
 file_second.close()
