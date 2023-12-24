@@ -33,11 +33,18 @@ c.execute('''CREATE TABLE IF NOT EXISTS BudgetData (
                 Type TEXT
             )''')
 
-# Загрузка данных из файлов в базу данных
-with open('sales_data1.json') as json_file: # файл исходных данных
+
+c.execute('''CREATE TABLE IF NOT EXISTS ProductData (
+                ProductId INTEGER PRIMARY KEY,
+                ProductName TEXT,
+                ProductDescription TEXT
+            )''')
+
+
+with open('sales_data1.json') as json_file:  # файла исходных данных нет в коде
     data = json.load(json_file)
     for item in data:
-        c.execute("INSERT INTO SalesData VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (
+        c.execute("INSERT INTO SalesData (Area_Code, State, Market, Market_Size, Profit, Margin, Sales, COGS, Total_Expenses, Marketing) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", (
             int(item['Area Code']), item['State'], item['Market'], item['Market Size'],
             float(item['Profit']), float(item['Margin']), float(item['Sales']),
             float(item['COGS']), float(item['Total Expenses']), float(item['Marketing'])
