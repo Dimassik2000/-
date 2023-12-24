@@ -34,6 +34,7 @@ def insert_data(conn, cursor, data):
     cursor.executemany('INSERT INTO products (name, price, quantity, fromCity, isAvailable, views) VALUES (?, ?, ?, ?, ?, ?)', data)
     conn.commit()
 
+
 def apply_updates(conn, cursor, update_data):
     for update in update_data:
         product_name = update['name']
@@ -42,12 +43,23 @@ def apply_updates(conn, cursor, update_data):
             param = update['param']
             if method == 'price_abs':
                 new_price = float(param)
-                if new_price >= 0:
-                    cursor.execute('UPDATE products SET price = ? WHERE name = ?', (new_price, product_name))
+                cursor.execute('UPDATE products SET price = ? WHERE name = ?', (new_price, product_name))
             elif method == 'available':
-                new_availability = 1 if param else 0
+                new_availability = 'В наличии' if param else 'Нет в наличии'
                 cursor.execute('UPDATE products SET isAvailable = ? WHERE name = ?', (new_availability, product_name))
+            elif method == 'views_increment':
+                cursor.execute('UPDATE products SET views = views + 1 WHERE name = ?', (product_name))
+            elif method == 'change_city':
+                new_city = param
+                cursor.execute('UPDATE products SET fromCity = ? WHERE name = ?', (new_city, product_name))
+            elif method == 'toggle_availability':
+                cursor.execute('SELECT isAvailable FROM products WHERE name = ?', (product_name))
+                current_availability = cursor.fetchone()
+                if current_availability:
+                    new_availability = 'Нет в наличии' if current_availability[0] == 'В наличии' else 'В наличии'
+                    cursor.execute('UPDATE products SET isAvailable = ? WHERE name = ?', (new_availability, product_name))
     conn.commit()
+
 
 def get_top_10_products(cursor):
     top_10_query = '''SELECT name, COUNT(*) AS update_count
@@ -131,8 +143,8 @@ def process_data_and_save_results(csv_file_path, msgpack_file_path, db_file_path
         "custom_results": [dict(zip(["fromCity", "product_count"], row)) for row in custom_results]
     }
 
-    with open(query_result_file_path, 'w') as file:
-        json.dump(results, file, indent=4)
+    with open(query_result_file_path, 'w', encoding='utf-8') as file:
+        json.dump(results, file, indent=4, ensure_ascii=False)
 
     conn.close()
 
